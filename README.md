@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m  Currently Preparing For Jee Examinations.<br>My Dream Is to Be a Software Developer At The Firms Like Google, Apple, Microsoft ,ect.<br>Where I Can Contribute With My Skills To a Large Number of users.<br>And All the Things Listed Below are my Targets Which I will conquer In My College Days.
+I’m  Currently Preparing For Jee Examinations.<br>My Dream Is to Be a Software Developer At The Firms Like Google, Apple, Microsoft ,ect.<br>Where I Can Contribute With My Skills To a Large Number of users.<br>And All the Tech Stack Listed Below are my Targets Which I will Master In My College Days.
 
 
 ## 🌐 Socials:
