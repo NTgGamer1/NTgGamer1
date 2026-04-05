@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 60-Day Build Roadmap
+## 🚀 Building Roadmap
 
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
