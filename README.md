@@ -27,11 +27,10 @@
 
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
-| 1 | 🔐 CLI Password Manager | Python, SQLite, Encryption | 🔨 In Progress |
+| 1 | 🔐 CLI Password Manager | Python, SQLite, Encryption | Completed |
 | 2 | ✅ Smart To-Do App | React, JavaScript | ⏳ Up Next |
-| 3 | 🤖 AI Study Assistant | Python, React, AI APIs | ⏳ Upcoming |
-| 4 | 💪 Fitness Tracker | React, Node, SQL | ⏳ Upcoming |
-| 5 | 🌐 Portfolio Upgrade | HTML, CSS, JS | ⏳ Upcoming |
+| 3 | 💪 Fitness Tracker | React, Node, SQL | ⏳ In Progress |
+| 4 | 🌐 Portfolio Upgrade | React,TailwindCSS, Node.JS | ⏳ Upcoming |
 
 ---
 
