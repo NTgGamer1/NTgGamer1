@@ -1,84 +1,287 @@
+<!-- ============================================================ -->
+
+<!--              NIKHIL MAURYA · GITHUB PROFILE                -->
+
+<!--                    @NTgGamer1                               -->
+
+<!-- ============================================================ -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nikhil+Maurya+%F0%9F%91%8B;NTgGamer1+%E2%80%94+My+Brand%2C+My+Code;I+Build+Things+That+Work.;Web+%7C+Automation+%7C+AI" alt="Typing SVG" />
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=B.Tech+CSE+(AI+%26+ML)+%40+Delhi+Technical+Campus;Full-Stack+Development+%E2%86%92+Software+Engineering;Building+Strong+Computer+Science+Foundations;Learn.+Build.+Ship.+Improve."
+alt="B.Tech CSE AI and ML student focused on full-stack development and software engineering"
+/>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://ntg-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/NTgGamer1)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/ntg.builds)
+
+<br/>
+
+**`B.Tech CSE (AI & ML)`** · **`Full-Stack Development`** · **`Software Engineering`**
+
+</div>
+
+---
+
+## `$ whoami`
+
+```typescript id="bb6vp7"
+const developer = {
+  name: "Nikhil Maurya",
+  handle: "@NTgGamer1",
+
+  education: {
+    institution: "Delhi Technical Campus",
+    degree: "B.Tech",
+    field: "Computer Science & Engineering",
+    specialization: "Artificial Intelligence & Machine Learning",
+    batch: "2026 — 2030",
+  },
+
+  primaryFocus: "Full-Stack Development",
+
+  interests: [
+    "Software Engineering",
+    "Artificial Intelligence & Machine Learning",
+    "Backend Systems",
+    "Problem Solving",
+  ],
+
+  currentlyLearning: [
+    "Data Structures & Algorithms",
+    "Backend Engineering",
+    "Database Systems",
+    "Modern Web Development",
+    "AI/ML Foundations",
+  ],
+
+  direction: "Software Engineering",
+
+  principle:
+    "Understand deeply. Build practically. Improve continuously.",
+} as const;
+```
+
+---
+
+## `01 // ABOUT`
+
+I'm **Nikhil Maurya**, a **Computer Science & Engineering** undergraduate specializing in **Artificial Intelligence & Machine Learning** at **Delhi Technical Campus**, Batch of **2030**.
+
+My primary technical focus is **full-stack development** — learning how modern software is designed and built across the **frontend, backend, APIs, databases, and deployment**.
+
+Alongside software development, I'm strengthening my foundations in **computer science, data structures & algorithms, problem solving, and AI/ML**.
+
+My engineering process is simple:
+
+<div align="center">
+
+```text id="p41t23"
+UNDERSTAND
+    ↓
+   DESIGN
+    ↓
+   BUILD
+    ↓
+    TEST
+    ↓
+   SHIP
+   ↓
+  ITERATE
+```
+
+**Understand the problem. Design the system. Build the solution. Ship it. Improve it.**
+
+</div>
+
+> **The objective isn't to collect technologies — it's to develop the engineering depth to understand, build, and improve real software.**
+
+---
+
+## `02 // TECHNICAL TOOLKIT`
+
+<div align="center">
+
+### Languages
+
+<img
+src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark"
+alt="Python, JavaScript, TypeScript, HTML and CSS"
+/>
+
+<br/><br/>
+
+### Frontend
+
+<img
+src="https://skillicons.dev/icons?i=react,tailwind&theme=dark"
+alt="React and Tailwind CSS"
+/>
+
+<br/><br/>
+
+### Backend
+
+<img
+src="https://skillicons.dev/icons?i=nodejs,flask&theme=dark"
+alt="Node.js and Flask"
+/>
+
+<br/><br/>
+
+### Databases
+
+<img
+src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"
+alt="MySQL and SQLite"
+/>
+
+<br/><br/>
+
+### Developer Tools & Deployment
+
+<img
+src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark"
+alt="Git, GitHub, Visual Studio Code and Vercel"
+/>
+
 </div>
 
 <br/>
 
+<table align="center">
+<thead>
+<tr>
+<th align="center">Frontend</th>
+<th align="center">Backend</th>
+<th align="center">Data</th>
+<th align="center">Engineering</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">
+React<br/>
+JavaScript<br/>
+TypeScript<br/>
+Tailwind CSS
+</td>
+
+<td align="center">
+Node.js<br/>
+Flask<br/>
+REST APIs
+</td>
+
+<td align="center">
+SQL<br/>
+MySQL<br/>
+SQLite
+</td>
+
+<td align="center">
+Git<br/>
+GitHub<br/>
+Deployment<br/>
+Problem Solving
+</td>
+</tr>
+</tbody>
+</table>
+
+<br/>
+
 <div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=vercel)](https://ntg-portfolio.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/NTgGamer1)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram)](https://instagram.com/iam.nikhilmaurya)
+
+`Frontend` → `Backend` → `APIs` → `Databases` → `Deployment`
 
 </div>
 
 ---
 
-## 🧠 About Me
-
-**Name** &nbsp;&nbsp;&nbsp;&nbsp;: Nikhil Maurya <br/>
-**Brand** &nbsp;&nbsp;&nbsp;&nbsp;: NTgGamer1 <br/>
-**Focus** &nbsp;&nbsp;&nbsp;&nbsp;: Full-Stack Development + AI <br/>
-**Based** &nbsp;&nbsp;&nbsp;&nbsp;: Uttar Pradesh, India 🇮🇳 <br/>
-
----
-
-## 🚀 Building Roadmap
-
-| # | Project | Stack | Status |
-|---|---------|-------|--------|
-| 1 | 🔐 CLI Password Manager | Python, SQLite, Encryption | Completed |
-| 2 | ✅ Smart To-Do App | React, JavaScript | ⏳ Up Next |
-| 3 | 💪 Fitness Tracker | React, Node, SQL | ⏳ In Progress |
-| 4 | 🌐 Portfolio Upgrade | React,TailwindCSS, Node.JS | ⏳ Upcoming |
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Databases & Tools**
-
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## `03 // GITHUB MATRIX`
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NTgGamer1&theme=tokyonight&hide_border=true" height="180"/>
+
+<img
+width="49%"
+src="https://streak-stats.demolab.com?user=NTgGamer1&theme=github-dark-blue&hide_border=true"
+alt="Nikhil Maurya GitHub contribution streak"
+/>
+
 </div>
 
+<br/>
+
+> **Note:** Language statistics reflect the composition of public repositories and do not represent proficiency levels.
+
 ---
 
-## 📈 Contribution Graph
+## `04 // CONTRIBUTION MATRIX`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NTgGamer1&theme=tokyo-night&hide_border=true" />
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=NTgGamer1&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Activity"
+width="100%"
+alt="Nikhil Mauria GitHub contribution activity graph"
+/>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=NTgGamer1\&style=flat-square\&color=58A6FF\&label=PROFILE+VIEWS)
+
 </div>
 
 ---
 
 <div align="center">
-  <i>"Not learning randomly. Building like a developer."</i>
-  <br/><br/>
-  <b>— NTgGamer1</b>
+
+### `BUILD SYSTEMS. UNDERSTAND THEM. MAKE THEM BETTER.`
+
+<br/>
+
+```javascript id="nyy1he"
+while (curiosity) {
+  learn();
+  build();
+  solve();
+  improve();
+}
+```
+
+### Nikhil Maurya
+
+**Computer Science & Engineering · AI & ML**
+
+Delhi Technical Campus · **Batch 2026 — 2030**
+
+<br/>
+
+`Full-Stack Development` · `Software Engineering` · `Artificial Intelligence`
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://ntg-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/NTgGamer1)
+
+<br/><br/>
+
+<sub>Learning the fundamentals. Building the systems. Becoming the engineer.</sub>
+
+<br/><br/>
+
+**`@NTgGamer1`**
+
 </div>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:161B22,100:58A6FF&section=footer"
+width="100%"
+alt=""
+/>
