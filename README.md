@@ -1,287 +1,253 @@
-<!-- ============================================================ -->
-
-<!--              NIKHIL MAURYA · GITHUB PROFILE                -->
-
-<!--                    @NTgGamer1                               -->
-
-<!-- ============================================================ -->
-
 <div align="center">
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=B.Tech+CSE+(AI+%26+ML)+%40+Delhi+Technical+Campus;Full-Stack+Development+%E2%86%92+Software+Engineering;Building+Strong+Computer+Science+Foundations;Learn.+Build.+Ship.+Improve."
-alt="B.Tech CSE AI and ML student focused on full-stack development and software engineering"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=58A6FF"
+  alt=""
 />
 
-<br/>
+<h1>👋 Hello there! I'm Nikhil Maurya</h1>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://ntg-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/NTgGamer1)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/ntg.builds)
+<!-- Animated typing SVG commented out to reduce external widgets. Uncomment if needed. -->
+<!--
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;duration=2600&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Full-stack+development;Backend+systems;AI%2FML+foundations;DSA+%26+problem+solving;Building+useful+software+with+depth"
+  alt="Animated typing text: full-stack development, backend systems, AI/ML foundations, DSA and problem solving"
+/
+-->
 
-<br/>
+<br />
 
-**`B.Tech CSE (AI & ML)`** · **`Full-Stack Development`** · **`Software Engineering`**
+<sub>
+  <code>Full-stack development</code> ·
+  <code>Backend systems</code> ·
+  <code>AI/ML foundations</code> ·
+  <code>DSA</code>
+</sub>
+
+<br />
+<br />
+
+<a href="https://ntg-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/website-online-58A6FF?style=flat-square&amp;logo=vercel&amp;logoColor=0D1117&amp;labelColor=0D1117" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/ntggamer1">
+  <img src="https://img.shields.io/badge/linkedin-connect-58A6FF?style=flat-square&amp;logo=linkedin&amp;logoColor=0D1117&amp;labelColor=0D1117" alt="LinkedIn" />
+</a>
+<a href="https://github.com/NTgGamer1">
+  <img src="https://img.shields.io/badge/github-NTgGamer1-58A6FF?style=flat-square&amp;logo=github&amp;logoColor=0D1117&amp;labelColor=0D1117" alt="GitHub" />
+</a>
+<img src="https://img.shields.io/badge/focus-backend%20systems-58A6FF?style=flat-square&amp;labelColor=0D1117" alt="Focus: backend systems" />
 
 </div>
 
 ---
 
-## `$ whoami`
+## 📖 About Me
 
-```typescript id="bb6vp7"
-const developer = {
-  name: "Nikhil Maurya",
-  handle: "@NTgGamer1",
+<!-- divider commented out to reduce repetition; keep only top/bottom bars -->
+<!-- <img
+  src="https://capsule-render.vercel.app/api?type=rect&amp;height=1&amp;color=30363D"
+  width="100%"
+  alt=""
+/> -->
 
-  education: {
-    institution: "Delhi Technical Campus",
-    degree: "B.Tech",
-    field: "Computer Science & Engineering",
-    specialization: "Artificial Intelligence & Machine Learning",
-    batch: "2026 — 2030",
-  },
+<table>
+<tr>
+<td width="58%" valign="top">
 
-  primaryFocus: "Full-Stack Development",
+<ul>
+<li>Studying <strong>B.Tech CSE (AI & ML)</strong> at <strong>Delhi Technical Campus</strong>, Batch <strong>2026–2030</strong></li>
+<li>Building practical software across the <strong>frontend</strong>, <strong>backend</strong>, <strong>APIs</strong>, and <strong>databases</strong></li>
+<li>Strengthening fundamentals in <strong>DSA</strong>, <strong>backend engineering</strong>, <strong>SQL</strong>, and <strong>AI/ML</strong></li>
+<li>I like discussing <strong>system design basics</strong>, <strong>API boundaries</strong>, <strong>data flow</strong>, and <strong>problem solving</strong></li>
+<li>I care about shipping software that is useful, readable, and easier to improve over time</li>
+<li>Learn more about my work on my <strong><a href="https://ntg-portfolio.vercel.app">portfolio</a></strong></li>
+</ul>
 
-  interests: [
-    "Software Engineering",
-    "Artificial Intelligence & Machine Learning",
-    "Backend Systems",
-    "Problem Solving",
-  ],
+</td>
+<td width="42%" valign="top">
 
-  currentlyLearning: [
-    "Data Structures & Algorithms",
-    "Backend Engineering",
-    "Database Systems",
-    "Modern Web Development",
-    "AI/ML Foundations",
-  ],
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NTgGamer1&amp;theme=github_dark"
+  alt="Nikhil Maurya GitHub statistics"
+/>
 
-  direction: "Software Engineering",
+</td>
+</tr>
+</table>
 
-  principle:
-    "Understand deeply. Build practically. Improve continuously.",
+```ts
+const nikhil = {
+  direction: "software engineering",
+  education: "B.Tech CSE (AI & ML), Delhi Technical Campus",
+  batch: "2026–2030",
+  focus: ["full-stack development", "backend systems", "DSA", "AI/ML foundations"],
+  values: ["clarity", "reliability", "depth", "iteration"],
+  principle: "Understand the problem. Design the boundary. Ship the system.",
 } as const;
 ```
 
----
+## ⬆️ What I'm Up To
 
-## `01 // ABOUT`
+<!-- divider commented out -->
+<!-- <img
+  src="https://capsule-render.vercel.app/api?type=rect&amp;height=1&amp;color=30363D"
+  width="100%"
+  alt=""
+/> -->
 
-I'm **Nikhil Maurya**, a **Computer Science & Engineering** undergraduate specializing in **Artificial Intelligence & Machine Learning** at **Delhi Technical Campus**, Batch of **2030**.
+- I'm currently working on...
 
-My primary technical focus is **full-stack development** — learning how modern software is designed and built across the **frontend, backend, APIs, databases, and deployment**.
-
-Alongside software development, I'm strengthening my foundations in **computer science, data structures & algorithms, problem solving, and AI/ML**.
-
-My engineering process is simple:
-
-<div align="center">
-
-```text id="p41t23"
-UNDERSTAND
-    ↓
-   DESIGN
-    ↓
-   BUILD
-    ↓
-    TEST
-    ↓
-   SHIP
-   ↓
-  ITERATE
+```txt
+- Full-stack projects with real backend behavior
+- REST APIs, database schemas, and authentication flows
+- DSA practice for stronger problem-solving depth
+- AI/ML foundations with an engineering-first mindset
 ```
 
-**Understand the problem. Design the system. Build the solution. Ship it. Improve it.**
+## Long-Term Direction
 
-</div>
+- Build reliable systems used by real people
+- Contribute meaningfully to open-source software
+- Develop deep engineering judgment across product, backend, and data
 
-> **The objective isn't to collect technologies — it's to develop the engineering depth to understand, build, and improve real software.**
+## 🧰 Favorite Tech
 
----
+<!-- divider commented out -->
+<!-- <img
+  src="https://capsule-render.vercel.app/api?type=rect&amp;height=1&amp;color=30363D"
+  width="100%"
+  alt=""
+/> -->
 
-## `02 // TECHNICAL TOOLKIT`
+> Tools, languages, and technologies I like working with.
 
-<div align="center">
-
-### Languages
-
-<img
-src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark"
-alt="Python, JavaScript, TypeScript, HTML and CSS"
-/>
-
-<br/><br/>
-
-### Frontend
-
-<img
-src="https://skillicons.dev/icons?i=react,tailwind&theme=dark"
-alt="React and Tailwind CSS"
-/>
-
-<br/><br/>
-
-### Backend
-
-<img
-src="https://skillicons.dev/icons?i=nodejs,flask&theme=dark"
-alt="Node.js and Flask"
-/>
-
-<br/><br/>
-
-### Databases
-
-<img
-src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"
-alt="MySQL and SQLite"
-/>
-
-<br/><br/>
-
-### Developer Tools & Deployment
-
-<img
-src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark"
-alt="Git, GitHub, Visual Studio Code and Vercel"
-/>
-
-</div>
-
-<br/>
-
-<table align="center">
-<thead>
+<table>
 <tr>
-<th align="center">Frontend</th>
-<th align="center">Backend</th>
-<th align="center">Data</th>
-<th align="center">Engineering</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td align="center">
-React<br/>
-JavaScript<br/>
-TypeScript<br/>
-Tailwind CSS
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="46" height="46" alt="TypeScript" />
+<br />TypeScript
 </td>
-
-<td align="center">
-Node.js<br/>
-Flask<br/>
-REST APIs
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js&amp;theme=dark" width="46" height="46" alt="JavaScript" />
+<br />JavaScript
 </td>
-
-<td align="center">
-SQL<br/>
-MySQL<br/>
-SQLite
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react&amp;theme=dark" width="46" height="46" alt="React" />
+<br />React
 </td>
-
-<td align="center">
-Git<br/>
-GitHub<br/>
-Deployment<br/>
-Problem Solving
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" width="46" height="46" alt="Tailwind CSS" />
+<br />Tailwind
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" width="46" height="46" alt="Node.js" />
+<br />Node.js
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=flask&amp;theme=dark" width="46" height="46" alt="Flask" />
+<br />Flask
 </td>
 </tr>
-</tbody>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="46" height="46" alt="Python" />
+<br />Python
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" width="46" height="46" alt="MySQL" />
+<br />MySQL
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=sqlite&amp;theme=dark" width="46" height="46" alt="SQLite" />
+<br />SQLite
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="46" height="46" alt="Git" />
+<br />Git
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="46" height="46" alt="GitHub" />
+<br />GitHub
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vercel&amp;theme=dark" width="46" height="46" alt="Vercel" />
+<br />Vercel
+</td>
+</tr>
 </table>
 
-<br/>
+## ⭐ Featured Projects
 
-<div align="center">
+> A few select projects — replace links with your repositories.
 
-`Frontend` → `Backend` → `APIs` → `Databases` → `Deployment`
+- [Portfolio website](https://ntg-portfolio.vercel.app) — Personal site showcasing projects and writing.
+- [Example app (repo)](https://github.com/NTgGamer1/example-app) — Short description of a focused project.
+- [Library / demo](https://github.com/NTgGamer1/example-lib) — Small, well-scoped technical demo.
 
-</div>
 
----
+## 🧭 Engineering Mode
 
-## `03 // GITHUB MATRIX`
-
-<div align="center">
-
-<img
-width="49%"
-src="https://streak-stats.demolab.com?user=NTgGamer1&theme=github-dark-blue&hide_border=true"
-alt="Nikhil Maurya GitHub contribution streak"
-/>
-
-</div>
-
-<br/>
-
-> **Note:** Language statistics reflect the composition of public repositories and do not represent proficiency levels.
-
----
-
-## `04 // CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=NTgGamer1&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Activity"
-width="100%"
-alt="Nikhil Mauria GitHub contribution activity graph"
-/>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=NTgGamer1\&style=flat-square\&color=58A6FF\&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<div align="center">
-
-### `BUILD SYSTEMS. UNDERSTAND THEM. MAKE THEM BETTER.`
-
-<br/>
-
-```javascript id="nyy1he"
-while (curiosity) {
-  learn();
-  build();
-  solve();
-  improve();
-}
+<!-- divider commented out -->
+<!-- <img
+  src="https://capsule-render.vercel.app/api?type=rect&amp;height=1&amp;color=30363D"
+  width="100%"
+  alt=""
+/> -->
+```txt
+understand → model → build → test → ship → improve
 ```
 
-### Nikhil Maurya
+- Prefer readable systems over clever code
+- Keep interfaces explicit and dependencies intentional
+- Learn fundamentals deeply enough to make better tradeoffs
+- Build small, ship often, improve deliberately
 
-**Computer Science & Engineering · AI & ML**
+## 🔔 GitHub Activity
 
-Delhi Technical Campus · **Batch 2026 — 2030**
+<!-- divider commented out -->
+<!-- <img
+  src="https://capsule-render.vercel.app/api?type=rect&amp;height=1&amp;color=30363D"
+  width="100%"
+  alt=""
+/> -->
 
-<br/>
+<img
+  src="https://ghchart.rshah.org/NTgGamer1"
+  width="100%"
+  alt="Nikhil Maurya GitHub contribution graph"
+/>
 
-`Full-Stack Development` · `Software Engineering` · `Artificial Intelligence`
+## 📫 How To Reach Me
 
-<br/><br/>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&amp;height=1&amp;color=30363D"
+  width="100%"
+  alt=""
+/>
 
-[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://ntg-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/NTgGamer1)
+You can reach me through my portfolio or LinkedIn.
 
-<br/><br/>
+[![Portfolio](https://img.shields.io/badge/portfolio-ntg--portfolio.vercel.app-58A6FF?style=flat-square&logo=vercel&logoColor=0D1117&labelColor=0D1117)](https://ntg-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-ntggamer1-58A6FF?style=flat-square&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://linkedin.com/in/ntggamer1)
 
-<sub>Learning the fundamentals. Building the systems. Becoming the engineer.</sub>
+---
 
-<br/><br/>
+<div align="center">
 
-**`@NTgGamer1`**
+<strong>Building useful systems, one well-understood layer at a time. ⚙️</strong>
+
+<br />
+<br />
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=58A6FF"
+  alt=""
+/>
 
 </div>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:161B22,100:58A6FF&section=footer"
-width="100%"
-alt=""
-/>
+[portfolio]: https://ntg-portfolio.vercel.app
