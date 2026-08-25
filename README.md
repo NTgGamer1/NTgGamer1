@@ -114,6 +114,7 @@ const nikhil = {
 - Develop deep engineering judgment across product, backend, and data
 
 ## 🧰 Favorite Tech
+### That I wanted to learn Before entering the 2nd year....
 
 <!-- divider commented out -->
 <!-- <img
