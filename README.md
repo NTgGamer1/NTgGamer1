@@ -185,7 +185,7 @@ const nikhil = {
 > A few select projects — replace links with your repositories.
 
 - [Portfolio website](https://ntg-portfolio.vercel.app) — Personal site showcasing projects and writing.
-- [E-Commerece (repo)](https://github.com/NTgGamer1/#) — A template made by me to show my creativeness.
+- [E-Commerce (repo)](https://github.com/NTgGamer1/E-Commerce) — A template made by me to show my creativeness.
 
 
 ## 🧭 Engineering Mode
