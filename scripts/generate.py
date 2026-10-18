@@ -7,12 +7,12 @@ USER = os.environ.get("GITHUB_USER", "NTgGamer1")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 OUT = os.path.join(os.path.dirname(__file__), "..", "assets", "profile.svg")
 
-ART = [' _   _ _____', '| \\ | |_   _|_ _', '|  \\| | | |/ _` |', '| |\\  | | | (_| |', '|_| \\_| |_|\\__, |', '           |___/', '  ____                           _', ' / ___| __ _ _ __ ___   ___ _ __/ |', "| |  _ / _` | '_ ` _ \\ / _ \\ '__| |", '| |_| | (_| | | | | | |  __/ |  | |', ' \\____|\\__,_|_| |_| |_|\\___|_|  |_|']
+ART = [' _   _ _____      ____                           _', '| \ | |_   _|_ _ / ___| __ _ _ __ ___   ___ _ __/ |', "|  \| | | |/ _` | |  _ / _` | '_ ` _ \ / _ \ '__| |", '| |\  | | | (_| | |_| | (_| | | | | | |  __/ |  | |', '|_| \_| |_|\__, |\____|\__,_|_| |_| |_|\___|_|  |_|', '           |___/']
 
-W = 62          # info column width in characters
+W = 100         # info column width in characters
 LH = 20         # info line height
 FS = 13         # font size
-ART_X, INFO_X = 32, 340
+ART_X, INFO_X = 32, 32
 
 
 def call(url, body=None):
@@ -83,16 +83,17 @@ E = html.escape
 
 def render(s):
     rs = rows(s)
-    y0 = 52
+    art_lh, art_fs, art_top = 22, 18, 62
+    y0 = art_top + len(ART) * art_lh + 26
     h = y0 + len(rs) * LH + 12
     out = []
     a = out.append
     a(f'<svg width="880" height="{h}" viewBox="0 0 880 {h}" xmlns="http://www.w3.org/2000/svg" '
       f'font-family="\'JetBrains Mono\',\'SFMono-Regular\',Consolas,\'Liberation Mono\',monospace" font-size="{FS}">')
     a('<defs>'
-      '<linearGradient id="g" gradientUnits="userSpaceOnUse" x1="32" y1="0" x2="305" y2="0">'
+      '<linearGradient id="g" gradientUnits="userSpaceOnUse" x1="32" y1="0" x2="590" y2="0">'
       '<stop offset="0" stop-color="#58A6FF"/><stop offset="1" stop-color="#A371F7"/></linearGradient>'
-      f'<clipPath id="wipe"><rect x="0" y="0" width="330" height="0">'
+      f'<clipPath id="wipe"><rect x="0" y="0" width="880" height="0">'
       f'<animate attributeName="height" from="0" to="{h}" dur="1.6s" begin="0.2s" fill="freeze"/></rect></clipPath>'
       '</defs>')
     a(f'<rect x="0.5" y="0.5" width="879" height="{h-1}" rx="12" fill="#0D1117" stroke="#30363D"/>')
@@ -100,13 +101,10 @@ def render(s):
     for cx, c in ((26, "#FF5F56"), (46, "#FFBD2E"), (66, "#27C93F")):
         a(f'<circle cx="{cx}" cy="22" r="6" fill="{c}"/>')
 
-    # ASCII art, centred vertically, revealed with a wipe
-    art_lh = 16
-    art_h = len(ART) * art_lh
-    ay = y0 + (len(rs) * LH - art_h) / 2 + 12
+    # ASCII art banner on one line, revealed with a wipe
     a('<g clip-path="url(#wipe)" fill="url(#g)">')
     for i, line in enumerate(ART):
-        a(f'<text x="{ART_X}" y="{ay + i*art_lh:.0f}" xml:space="preserve" style="white-space:pre">{E(line)}</text>')
+        a(f'<text x="{ART_X}" y="{art_top + i*art_lh}" font-size="{art_fs}" xml:space="preserve" style="white-space:pre">{E(line)}</text>')
     a('</g>')
 
     t = 0.5
