@@ -67,7 +67,7 @@ def rows(s):
         ("kv", "Focus", "Full-stack, Backend, DSA, AI/ML"),
         ("blank",),
         ("sect", "Links"),
-        ("kv", "Portfolio", "ntg-portfolio.vercel.app"),
+        ("kv", "Portfolio", "ntggamer1.me"),
         ("kv", "LinkedIn", "ntggamer1"),
         ("kv", "GitHub", USER),
         ("blank",),
