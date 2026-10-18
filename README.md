@@ -4,9 +4,9 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=0D1117)](https://ntg-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/linkedin-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://linkedin.com/in/ntggamer1)
-[![GitHub](https://img.shields.io/badge/NTgGamer1-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/NTgGamer1)
+<a href="https://ntggamer1.me"><img src="./assets/btn-portfolio.svg" height="48" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/ntggamer1"><img src="./assets/btn-linkedin.svg" height="48" alt="LinkedIn" /></a>
+<a href="https://github.com/NTgGamer1"><img src="./assets/btn-github.svg" height="48" alt="GitHub" /></a>
 
 <br />
 
